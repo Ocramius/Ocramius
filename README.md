@@ -1,1 +1,1 @@
-<a rel="me" href="https://mastodon.social/@ocramius">Mastodon</a>
+<a rel="nofollow me" class="Link--primary" href="https://mastodon.social/@ocramius">https://mastodon.social/@ocramius</a>
